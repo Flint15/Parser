@@ -1,2 +1,9 @@
 # Parser
-There are 2 functions in the script, one of which is responsible for finding out the date of birth of the person you are writing. 2 the function displays the selection (today/tomorrow) of the temperature in St. Petersburg
+
+
+To get started with the code, first you need to download the libraries - (wikipedia, requests, bs4, fake_useragent)
+
+#  pip install wikipedia
+#  pip install requests
+#  pip install bs4
+#  pip install fake_useragent
